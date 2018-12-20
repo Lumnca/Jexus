@@ -22,4 +22,4 @@
 
 ![](https://github.com/Lumnca/Jexus/blob/master/Imgs/a3.png)
 
-点击即完成发布工作
+点击即完成发布工作，接下来就是把发布的文件夹上传到你的服务器，当然先不忙上传，在没有支持ASP.NET的服务器上是运行不起这个文件的。
