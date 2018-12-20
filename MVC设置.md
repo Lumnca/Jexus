@@ -17,3 +17,9 @@
 ![](https://github.com/Lumnca/Jexus/blob/master/Imgs/a2.png)
 
 ### :closed_umbrella: 发布为文件系统 ###
+
+右击项目选择发布：
+
+![](https://github.com/Lumnca/Jexus/blob/master/Imgs/a3.png)
+
+点击即完成发布工作
