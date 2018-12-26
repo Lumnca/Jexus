@@ -35,20 +35,15 @@ sudo rm -rf /tmp/jexus*
 
 ### :three:建一个简单的aspx网页用于测试： ###
 
-由于jexus的默认的网站配置文件指向的物理路径是/var/www/default，所以，我们在/var下创建www文件夹，在www下创建default文件夹。创建完成后:
+由于jexus的默认的网站配置文件指向的物理路径是/var/www/default，所以，我们在/var下创建www文件夹，在www下创建default文件夹(如果存在该文件夹就直接打开)。创建完成后:
 
 进入目录/var/www/default:
 ```
 cd /var/www/default
 ```
-编写一个简单的 index.aspxvim 
+创建一个默认页面，不需要编写内容
 ```
-vim index.aspx
-```
-仅如下两句：
-```
-<%@Page Language="C#"%>
-<%=DateTime.Now.ToString()%> 
+vim  default.cshtml
 ```
 
 保存后退出。
