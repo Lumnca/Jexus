@@ -64,6 +64,8 @@ cd /usr/jexus
 sudo ./jws start
 ```
 
+接下来访问你的IP地址，如果看到时间则表示成功，这只是成功了一部分，如果想启用ASP .NET还要进行后续操作
+
 ### :five:Jexus的常用命令：###
 ```
 启动：sudo ./jws start
